@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <title>Barbearia Alura </title>
 </head>
+   <link rel="stylesheet" href="style.css">
   <body>
 <hl style="text-align: center">Sobre a Barbearia Alura</hl>
 
