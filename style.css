@@ -1,5 +1,6 @@
 .principal {
-    background: #CCCCCC
+    background: #CCCCCC;
+    padding: 30px;
 }
 
 #banner {
@@ -28,6 +29,7 @@ em strong {
 
 .beneficios {
     background: #FFFFFF;
+    padding: 20px;
 }
 
 h2 {
