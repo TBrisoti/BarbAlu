@@ -7,7 +7,7 @@
     width: 100%;
 }
 
-h1 {
+.titulo-centralizado {
     text-align: center;
 }
 
@@ -30,10 +30,6 @@ em strong {
 .beneficios {
     background: #FFFFFF;
     padding: 20px;
-}
-
-h3 {
-    text-align: center;
 }
 
 ul {
