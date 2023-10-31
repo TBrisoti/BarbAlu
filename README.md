@@ -5,6 +5,10 @@
   <title>Barbearia Alura </title>
   <link rel="stylesheet" href="style.css">
 
+    <style>
+
+    
+  </style>
 </head>
    <link rel="stylesheet" href="style.css">
   <body>
